@@ -12,6 +12,13 @@ function App() {
       <br />
       <br />
       <p>Example provided by <a href="https://privjs.com">privjs.com | Buy & sell NPM packages</a></p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+      <p><small>Gsap code example referred from: https://codesandbox.io/s/google-style-loader-gx7fi</small></p>
     </div>
   );
 }
